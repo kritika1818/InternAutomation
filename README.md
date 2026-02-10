@@ -1,1 +1,2 @@
-# Demoblaze-Automation
+Polymer Shop Automation Tests
+This repository contains tests for the Polymer Shop web application using Playwright. The tests cover adding products to the cart, removing items, and completing the checkout process using JSON fixture data.
