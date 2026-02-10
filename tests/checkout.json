@@ -1,0 +1,21 @@
+{
+  "email": "test@example.com",
+  "phone": "9800000000",
+  "shipping": {
+    "address": "Kathmandu Street",
+    "city": "Kathmandu",
+    "state": "Bagmati",
+    "zip": "44600"
+  },
+  "billing": {
+    "address": "Kathmandu Street",
+    "city": "Kathmandu",
+    "state": "Bagmati",
+    "zip": "44600"
+  },
+  "creditCard": {
+    "name": "Test User",
+    "number": "4111111111111111",
+    "cvv": "123"
+  }
+}
